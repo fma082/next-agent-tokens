@@ -1,2 +1,2 @@
 # fluuen-tokens
-Design tokens for Next Agent Design System
+Design tokens for the Fluuen Design System
